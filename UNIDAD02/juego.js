@@ -11,4 +11,4 @@ if (numeroJugador === numeroSecreto) {
     console.log("numero mayor, intenta de nuevo.");
 }else{
     console.log("numero no encontrado intenta nuevamente");
-}
+}  
